@@ -15,3 +15,5 @@ permalink: pretty
 # just leave someone empty to disable it
 google_analytics: "UA-45958072-2"
 disqus_shortname:
+github:
+  username: mediachicken
