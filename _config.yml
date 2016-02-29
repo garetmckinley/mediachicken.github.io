@@ -1,7 +1,9 @@
 # Site settings
 title: mediachicken
+subtitle: 
 baseurl:
 url: "https://mediachicken.com"
+copyright: "&copy; 2008-2016"
 
 # Build settings
 markdown: redcarpet
