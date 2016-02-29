@@ -1,6 +1,6 @@
 # Site settings
 title: mediachicken
-subtitle: 
+subtitle:
 baseurl:
 url: "https://mediachicken.com"
 copyright: "&copy; 2008-2016"
@@ -13,5 +13,5 @@ permalink: pretty
 
 # Third-party services
 # just leave someone empty to disable it
-google_analytics:
+google_analytics: "UA-45958072-2"
 disqus_shortname:
