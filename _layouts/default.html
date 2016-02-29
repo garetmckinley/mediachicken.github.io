@@ -3,7 +3,11 @@
   {% include head.html %}
   <body>
     <header class="site-header">
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a href="{{ site.baseurl }}/"><img src="/images/mediachicken.svg" alt="mediachicken logo" class="site-logo"/></a>
+      <h2 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h2>
+      {% if site.subtitle %}
+        <h3>{{ site.subtitle }}</h3>
+      {% endif %}
     </header>
     <div class="page-content">
       {{ content }}
