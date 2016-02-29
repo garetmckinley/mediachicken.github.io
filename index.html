@@ -12,6 +12,20 @@ layout: default
 		</p>
 	</section>
 	<section>
+		<h2 class="smallcap">projects</h2>
+		<ul class="post-list">
+			{% assign sorted_projects = site.data.projects  | sort:"title" %}
+			{% for project in sorted_projects limit:10 %}
+			<li>
+				<span>{{ project.date | date: "%b %d, %Y" }}</span>
+				<a href="{{ project.github | prepend: 'https://github.com/' }}">{{ project.title }}</a>
+				<span>- {{ project.description }}</span>
+			</li>
+			{% endfor %}
+		</ul>
+		<p><a href="https://github.com/{{ site.github.username }}?tab=repositories">view more...</a></p>
+	</section>
+	<section>
 		<h2 class="smallcap">posts</h2>
 		<ul class="post-list">
 			{% for post in site.posts limit:5 %}

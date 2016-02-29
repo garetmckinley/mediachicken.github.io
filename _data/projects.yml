@@ -1,0 +1,9 @@
+- title: pvc
+  description: python version controller for managing multiple python installs
+  github: mediachicken/pvc
+- title: pwt
+  description: cli tools for managing a password library in an encrypted volume
+  github: mediachicken/pwt
+- title: MovieClipX
+  description: animation library for Corona SDK
+  github: mediachicken/MovieClipX
