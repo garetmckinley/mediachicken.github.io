@@ -5,8 +5,8 @@ layout: post
 ---
 
 
-[![Small Code Editor Screenshot 1](http://i.imgur.com/OZsjAXc.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
-[![Small Code Editor Screenshot 2](http://i.imgur.com/49LvUG3.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
+[![Small Code Editor Screenshot 1](//i.imgur.com/OZsjAXc.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
+[![Small Code Editor Screenshot 2](//i.imgur.com/49LvUG3.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
 
 
 ## Release Notes
@@ -30,4 +30,4 @@ Other New Things:
 - New app icon
 
 
-[![Download on the Mac App Store](http://i.imgur.com/wckVUUL.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
+[![Download on the Mac App Store](//i.imgur.com/wckVUUL.png)](https://itunes.apple.com/us/app/small-code-editor-built-for/id1094640838?mt=12)
